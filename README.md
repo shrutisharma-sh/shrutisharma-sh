@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrutisharma-sh
-- 👀 I’m interested in  Java Development, DevOps, and UI/UX Design  
+- 👀 I’m interested in  Java Development, Backend Development, and DevOps  
 - 🌱 I’m currently learning Spring Boot, Linux, and mastering Git & GitHub  
 - 💞️ I’m looking to collaborate on open source projects, web apps, and DevOps toolchains  
 - 📫 How to reach me Email: shrutish8439@gmail.com
